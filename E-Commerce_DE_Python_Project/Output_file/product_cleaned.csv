@@ -1,0 +1,12 @@
+product_id,product_name,category,price,stock,valid_price,vaild_stock
+P101,Laptop,Electronics,55000.0,20,55000.0,20
+P102,Mouse,Electronics,800.0,100,800.0,100
+P103,Keyboard,NA,1500.0,50,1500.0,50
+P104,Monitor,Electronics,12000.0,30,12000.0,30
+P105,Headset,Electronics,2500.0,40,2500.0,40
+P106,Chair,Furniture,7000.0,-5,7000.0,0
+P107,Table,Furniture,9000.0,15,9000.0,15
+P108,Mobile,Electronics,25000.0,25,25000.0,25
+P109,Printer,Electronics,,10,0.0,10
+P110,Webcam,Electronics,3500.0,35,3500.0,35
+P111,Desk,Furniture,8500.0,12,8500.0,12
